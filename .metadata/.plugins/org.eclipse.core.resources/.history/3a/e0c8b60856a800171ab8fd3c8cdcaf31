@@ -1,0 +1,8 @@
+@immport url(http://fonts.googleopis.com/earlyacess/nanumgothic.css);
+@immport url(http://fonts.googleopis.com/earlyacess/hanna.css);
+* {
+	font-family: 'Nanum Gothic';
+}
+h1 {
+	font-family: 'Hanna';
+}
